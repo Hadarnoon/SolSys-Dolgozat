@@ -1,0 +1,14 @@
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\bin\Debug\net6.0\Solsys.exe
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\bin\Debug\net6.0\Solsys.deps.json
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\bin\Debug\net6.0\Solsys.runtimeconfig.json
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\bin\Debug\net6.0\Solsys.dll
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\bin\Debug\net6.0\Solsys.pdb
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.AssemblyInfoInputs.cache
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.AssemblyInfo.cs
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.csproj.CoreCompileInputs.cache
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.dll
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\refint\Solsys.dll
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.pdb
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\Solsys.genruntimeconfig.cache
+C:\Users\C20OszlikT\source\repos\Solsys\Solsys\obj\Debug\net6.0\ref\Solsys.dll
